@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "37441102818",
+    "project_id": "esafety-18f5f",
+    "storage_bucket": "esafety-18f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37441102818:android:7b6129a82d32e06eeecfbb",
+        "android_client_info": {
+          "package_name": "com.esafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37441102818-ak14e6tqaurb4r109ueeam1vi03pavs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esafety",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "37441102818-55tn2flqqggk2verav59kpqmke7r640k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTAiL4CCLdU6akSEetEvQLHyP_x93h5hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37441102818-55tn2flqqggk2verav59kpqmke7r640k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
